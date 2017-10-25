@@ -11,7 +11,7 @@ h1 {
     margin-bottom: 5px;
 }
 
-hr {
+.line {
     background-color: black;
     border: none;
     border-radius: 5px;
