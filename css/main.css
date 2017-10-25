@@ -1,0 +1,64 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Gloria Hallelujah', cursive;
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-bottom: 5px;
+}
+
+hr {
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    height: 4px;
+    margin-left: 100px;
+    width: 90px;
+}
+
+section {
+    margin-top: 15px;
+    padding: 0;
+    text-align: center;
+    width: 900px;
+}
+
+figure {
+    display: inline-block;
+    height: 200px;
+    margin: 20px;
+    position: relative;
+    width: 200px;
+}
+
+figure img {
+    height: 200px;
+    margin: 5px;
+    width: 200px;
+}
+
+figcaption {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    position: absolute;
+    right: 6px;
+    top: 90%;
+}
+
+figure:hover figcaption {
+    background-color: rgba(255, 255, 255, 0.5);
+    color: black;
+    font-size: 23px;
+    top: 50%;
+    right: 7px;
+}
+
+figure:hover img {
+    opacity: 0.6;
+} 
