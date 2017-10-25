@@ -11,4 +11,4 @@ Escogi el tema de mujeres famosas en el mundo de la tecnologia y mi resultado fu
 
 Al pasar el mouse por cualquier imagen el nombre se agrande y se pone al centro.
 
-## Autora: Laura Jimenez
+## Autora: Laura Jiménez
