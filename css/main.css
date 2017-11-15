@@ -54,11 +54,29 @@ figcaption {
 figure:hover figcaption {
     background-color: rgba(255, 255, 255, 0.5);
     color: black;
-    font-size: 23px;
+    font-size: 22px;
     top: 50%;
-    right: 7px;
+    margin-right: 8%;
 }
 
 figure:hover img {
     opacity: 0.6;
-} 
+}
+
+.lab {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+.selectProm {
+    width: 15px;
+    margin-left: 105px;
+    margin-top: 30px;
+}
+
+#select-promo {
+    padding: 5px;
+}
